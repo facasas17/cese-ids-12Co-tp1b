@@ -26,9 +26,9 @@
 /*=====[Definitions of public global variables]==============================*/
 
 static const struct alumno_s FABIOLA_DELASCASAS = {
-    .apellidos = "DE LAS CASAS ESCARDO",
-    .nombres = "Fabiola",
-    .documento = "93.712.282",
+    .apellidos = "DE LAS CASAS ESCARDO",    
+    .nombres = "Fabiola",                   
+    .documento = "93.712.282",              
 };
 
 const alumno_t ALUMNOS[] = {
